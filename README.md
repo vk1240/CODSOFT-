@@ -4,7 +4,7 @@ Codsoft Data science Internship projects by kishore.v
 
 TASKS AND PROJECTS:
 
-1. TITANIC PREDICTION MODEL:
+1.TITANIC PREDICTION MODEL:
    
  LINK DESCRIPTION:https://github.com/vk1240/CODSOFT-/blob/main/titanic.ipynb
 
