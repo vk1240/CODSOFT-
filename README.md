@@ -12,7 +12,7 @@ TASKS AND PROJECTS:
 
 LINK DESCRIPTION: https://github.com/vk1240/CODSOFT-/blob/main/salesprediction.ipynb
 
-3. MOVIE RATING PREDICTION:
+3.MOVIE RATING PREDICTION:
 
 LINK DESCRIPTION: https://github.com/vk1240/CODSOFT-/blob/main/movierating%20(1).ipynb
 
