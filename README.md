@@ -16,6 +16,9 @@ LINK DESCRIPTION: https://github.com/vk1240/CODSOFT-/blob/main/salesprediction.i
 
 LINK DESCRIPTION: https://github.com/vk1240/CODSOFT-/blob/main/movierating%20(1).ipynb
 
+4.IRIS FLOWER CLASSIFICATION:
+
+LINK DESCRIPTION: https://github.com/vk1240/CODSOFT-/blob/main/irisflower.ipynb
 
 
 Skills Gained:
